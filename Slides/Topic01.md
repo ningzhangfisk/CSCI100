@@ -22,7 +22,7 @@ Primary memory usually refers to Random Access Memory (RAM), while secondary sto
 
 ## 1.3 Information Processing Cycle
 
-<img src="https://slideplayer.com/slide/6491494/22/images/3/The+Computer+System%3A+The+Information+Processing+cycle+%28IPC%29.jpg" style="width:300px; height:200px;">
+<img src="https://slideplayer.com/slide/6491494/22/images/3/The+Computer+System%3A+The+Information+Processing+cycle+%28IPC%29.jpg" style="width:600px; height:400px;">
 
 + Data v.s. Information
   - **Data** is a collection of unprocessed items, which can include text, numbers, images and so on.
