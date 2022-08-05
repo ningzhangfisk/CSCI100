@@ -83,6 +83,9 @@ Primary memory usually refers to Random Access Memory (RAM), while secondary sto
 + The relationship between Hardware and Software
 
 ![relationship between Hardware and Software](https://qph.cf2.quoracdn.net/main-qimg-2fb11622c6673913c57df4f507965107)
+
+## 1.6 Data Representation
+
 # References
 + [Computers Are Everywhere](https://cs.calvin.edu/activities/books/rit/chapter1/lesson1/index.htm)
 + [4 Functions of a Computer](https://turbofuture.com/computers/The-Four-Functions-Of-A-Computer)
