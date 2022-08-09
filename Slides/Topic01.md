@@ -85,7 +85,31 @@ Primary memory usually refers to Random Access Memory (RAM), while secondary sto
 ![relationship between Hardware and Software](https://qph.cf2.quoracdn.net/main-qimg-2fb11622c6673913c57df4f507965107)
 
 ## 1.6 Data Representation
++ Everything on a computer is represented as streams of binary numbers. Audio, images and characters.
 
+![](https://homepage.cs.uri.edu/faculty/wolfe/book/images/R02/binary5.jpg)
+
+### 1.6.1 Data Formats
++ Audio, images and characters all look like binary numbers in machine code. These numbers are encoded in different data formats to give them meaning,
+  - Audio is encoded as audio file formats. E.g., mp3, WAV, ACC...
+  - Video is encoded as video file formats. E.g., MPEG4, H264...
+  - Text is encoded in character sets. E.g., ASCII, Unicode...
+  - Images are encoded as file formats. E.g., BMP. JPEG, PNG...
+#### ASCII
++ SCII is short for American Standard Code for Information Interexchange, 
++ ASCII is an standard that assigns letters, numbers, and other characters within the 256 slots available in the 8-bit code.
+
+![ascii](https://cs.smu.ca/~porter/csc/ref/asciifull.gif)
+
++ Characters must be encoded in binary.
+
+![Characters must be encoded in binary](https://i.ytimg.com/vi/H4l42nbYmrU/maxresdefault.jpg)
+
+![how is a letter convert to binary form and back](https://slideplayer.com/slide/13901522/85/images/21/Data+Representation+How+is+a+letter+converted+to+binary+form+and+back.jpg)
+
+
+
++ ASCII maps characters to numbers.
 # References
 + [Computers Are Everywhere](https://cs.calvin.edu/activities/books/rit/chapter1/lesson1/index.htm)
 + [4 Functions of a Computer](https://turbofuture.com/computers/The-Four-Functions-Of-A-Computer)
