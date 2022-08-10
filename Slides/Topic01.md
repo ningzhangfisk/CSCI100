@@ -225,7 +225,7 @@ German messages during World War II.
 + A hard disk drive (HDD), hard disk, hard drive, or fixed disk[b] is an electro-mechanical data storage device that stores and retrieves digital data using magnetic storage with one or more rigid rapidly rotating platters coated with magnetic material.
 + [How hard drive works](https://cs.stanford.edu/people/nick/how-hard-drive-works/#:~:text=The%20hard%20drive%20contains%20a,the%20stored%200's%20and%201's)
 
-![HDD](https://cdn.britannica.com/63/74063-050-2714FB88/hard-drive.jpg)
+<img alt="hdd" src="[https://slideplayer.com/slide/6491494/22/images/3/The+Computer+System%3A+The+Information+Processing+cycle+%28IPC%29.jpg](https://cdn.britannica.com/63/74063-050-2714FB88/hard-drive.jpg)" style="width:600px; height:400px;">
 
 # References
 + [Computers Are Everywhere](https://cs.calvin.edu/activities/books/rit/chapter1/lesson1/index.htm)
