@@ -144,12 +144,14 @@ German messages during World War II.
 ## 2.5 First [Compiler](https://en.wikipedia.org/wiki/Compiler)
 + Grace Hopper (1906 -1992) was an American computer scientist and United States Navy Rear Admiral. She invented the first compiler for a computer programming language. The A-0 system (Arithmetic Language version 0), was the first compiler ever developed for an electronic computer.
 
-![](https://c8.alamy.com/comp/HRP280/grace-hopper-american-computer-scientist-HRP280.jpg)
+
+<img alt="grace hopper" src="https://c8.alamy.com/comp/HRP280/grace-hopper-american-computer-scientist-HRP280.jpg" style="width:600px; height:400px;">
 
 ## 2.6 A legendary bug
 + In 1947, a physical malfunction in the Mark II computer was traced back to a moth stuck in one of the relays. Grace Hopper taped it to the operations logbook with the annotation ”First actual case of bug being found”.
 
-![bug](https://static-ssl.businessinsider.com/image/5593f5cc6bb3f7ac51d8d3cf-1200-800/bug-6.jpg)
+<img alt="big" src="https://static-ssl.businessinsider.com/image/5593f5cc6bb3f7ac51d8d3cf-1200-800/bug-6.jpg" style="width:600px; height:400px;">
+
 
 ## 2.7 The microelectronic revolution
 + Integrated circuits , as much as transistors, helped to shrink computers during the 1960s. As the 1960s wore on, integrated circuits became increasingly sophisticated and compact. Soon, engineers were speaking of **large-scale integration(LSI)**, and then **very large-scale integrated (VLSI)**.
