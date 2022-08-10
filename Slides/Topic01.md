@@ -219,13 +219,14 @@ German messages during World War II.
 + Random-access memory (RAM; /ræm/) is a form of computer memory that can be read and changed in any order, typically used to store working data and machine code.
 + A random-access memory device allows data items to be read or written in almost the same amount of time irrespective of the physical location of data inside the memory, in contrast with other direct-access data storage media (such as hard disks, CD-RWs, DVD-RWs and the older magnetic tapes and drum memory), where the time required to read and write data items varies significantly depending on their physical locations on the recording medium, due to mechanical limitations such as media rotation speeds and arm movement.
 
-![ram](https://www.computerhope.com/cdn/computer-memory.png)
+
+<img alt="ram" src="https://www.computerhope.com/cdn/computer-memory.png" style="width:600px; height:400px;">
 
 #### 3.1.3.5 [Hard disk drive](https://en.wikipedia.org/wiki/Hard_disk_drive)
 + A hard disk drive (HDD), hard disk, hard drive, or fixed disk[b] is an electro-mechanical data storage device that stores and retrieves digital data using magnetic storage with one or more rigid rapidly rotating platters coated with magnetic material.
 + [How hard drive works](https://cs.stanford.edu/people/nick/how-hard-drive-works/#:~:text=The%20hard%20drive%20contains%20a,the%20stored%200's%20and%201's)
 
-<img alt="hdd" src="[https://slideplayer.com/slide/6491494/22/images/3/The+Computer+System%3A+The+Information+Processing+cycle+%28IPC%29.jpg](https://cdn.britannica.com/63/74063-050-2714FB88/hard-drive.jpg)" style="width:600px; height:400px;">
+<img alt="hdd" src="https://cdn.britannica.com/63/74063-050-2714FB88/hard-drive.jpg" style="width:600px; height:400px;">
 
 # References
 + [Computers Are Everywhere](https://cs.calvin.edu/activities/books/rit/chapter1/lesson1/index.htm)
