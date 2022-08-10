@@ -286,8 +286,7 @@ German messages during World War II.
 ## 4.5 Embedded Computers
 + An embedded computer is a special- purpose computer that functions as a component in a larger product.
 
-<img alt="embedded computer in car" src="https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/5079462-automotive-embedded-systems-800x504.jpeg
-" style="width:600px; height:400px;">
+<img alt="embedded computer in car" src="https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/5079462-automotive-embedded-systems-800x504.jpeg" style="width:600px; height:400px;">
 
 
 # References
