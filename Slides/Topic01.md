@@ -275,7 +275,7 @@ German messages during World War II.
 
 <img alt="http request" src="https://qph.cf2.quoracdn.net/main-qimg-4a27004308ef978df4321fb1244e6919" style="width:600px; height:400px;">
 
-## 4.3 Supercomputers
+## 4.4 Supercomputers
 + A supercomputer is the fastest, most powerful computer and the most expensive.
 + The fastest supercomputers are capable of processing more than one quadrillion(10^15) instructions in a single second.
 + Supercomputers are used for data-intensive and computation-heavy scientific and engineering purposes such as quantum mechanics, weather forecasting, oil and gas exploration, molecular modeling, physical simulations, aerodynamics, nuclear fusion research and cryptoanalysis.
@@ -283,12 +283,16 @@ German messages during World War II.
 
 <img alt="titan supercomputer" src="https://insidehpc.com/wp-content/uploads/2020/02/titan.jpg" style="width:600px; height:400px;">
 
+## 4.5 Embedded Computers
++ An embedded computer is a special- purpose computer that functions as a component in a larger product.
+
+<img alt="embedded computer in car" src="https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/5079462-automotive-embedded-systems-800x504.jpeg
+" style="width:600px; height:400px;">
 
 
-<img alt="" src="" style="width:600px; height:400px;">
 # References
 + [Computers Are Everywhere](https://cs.calvin.edu/activities/books/rit/chapter1/lesson1/index.htm)
 + [4 Functions of a Computer](https://turbofuture.com/computers/The-Four-Functions-Of-A-Computer)
-+ [History of Computers](https://www.explainthatstuff.com/historyofcomputers.html#:~:text=Cogs%20and%20Calculators,-It%20is%20a&text=Then%2C%20in%201642%2C%20aged%20only,collector%20father%20do%20his%20sums.)
++ [History of Computers](https://www.explainthatstuff.com/historyofcomputers.html)
 + [historyofcomputers](http://www.explainthatstuff.com/historyofcomputers.html)
 
