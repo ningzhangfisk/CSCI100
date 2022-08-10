@@ -232,6 +232,60 @@ German messages during World War II.
 
 <img alt="hdd" src="https://cdn.britannica.com/63/74063-050-2714FB88/hard-drive.jpg" style="width:600px; height:400px;">
 
+#### 3.1.3.5 [Graphics processing unit(GPU)](https://en.wikipedia.org/wiki/Graphics_processing_unit)
++ A graphics processing unit (GPU) is a specialized electronic circuit designed to manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to a display device.
++ [cpu vs. gpu](https://www.intel.com/content/www/us/en/products/docs/processors/cpu-vs-gpu.html)
+
+<img alt="gpu" src="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Gigabyte_RTX_3080_deal_price_amazon_GPU_graphics_card.jpg" style="width:600px; height:400px;">
+
+# 4 Category of Computers
++ Personal computers(desktop)
++ Mobile computers and mobile devices
++ Servers
++ Supercomputers
++ Embedded Computers
+
+## 4.1 Personal Computers
++ Two most popular styles of Personal Computer
+
+<img alt="mac vs windows" src="https://www.lifewire.com/thmb/Y-n7_5A2hhwXi_UcevAyTuMJ8Ow=/2687x1436/filters:fill(auto,1)/Mac-vs-PC-abe3d3fc55f2456ca8c745b306575f57.jpg" style="width:600px; height:400px;">
+
++ PC usually use a Windows operating system.
+
+
+<img alt="windows 10" src="https://www.lifewire.com/thmb/ELZk3hbBmcjwbm9B4K8NkDKa8k0=/1024x683/filters:fill(auto,1)/windows-10-14328-580797c43df78cbc285096a1.png" style="width:600px; height:400px;">
+
++ Apple computers usually use a Macintosh operating system
+
+<img alt="mac os" src="https://www.apple.com/newsroom/images/product/os/macos/standard/Apple-previews-macOS-Catalina-Gallery-screen-06032019_big_carousel.jpg.large.jpg
+" style="width:600px; height:400px;">
+
+## 4.2 Mobile Computers
+
+<img alt="mobile computers" src="https://thumbs.dreamstime.com/b/modern-mobile-devices-creative-abstract-mobility-internet-business-communication-technology-web-concept-d-render-illustration-72847254.jpg" style="width:600px; height:400px;">
+
+
+## 4.3 Servers
++ A server is a computer that serves up information to other computers on a network.
++ A server controls access to the hardware, software, and other resources on a network and provides a centralized storage area for programs, data, and information.
+
+<img alt="servers" src="https://www.racksolutions.com/news//app/uploads/AdobeStock_90603827-1-scaled.jpeg" style="width:600px; height:400px;">
+
+<img alt="server and client" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Client-server-model.svg" style="width:600px; height:400px;">
+
+<img alt="http request" src="https://qph.cf2.quoracdn.net/main-qimg-4a27004308ef978df4321fb1244e6919" style="width:600px; height:400px;">
+
+## 4.3 Supercomputers
++ A supercomputer is the fastest, most powerful computer and the most expensive.
++ The fastest supercomputers are capable of processing more than one quadrillion(10^15) instructions in a single second.
++ Supercomputers are used for data-intensive and computation-heavy scientific and engineering purposes such as quantum mechanics, weather forecasting, oil and gas exploration, molecular modeling, physical simulations, aerodynamics, nuclear fusion research and cryptoanalysis.
++ [Top 500 Supercomputers](https://www.top500.org/)
+
+<img alt="titan supercomputer" src="https://insidehpc.com/wp-content/uploads/2020/02/titan.jpg" style="width:600px; height:400px;">
+
+
+
+<img alt="" src="" style="width:600px; height:400px;">
 # References
 + [Computers Are Everywhere](https://cs.calvin.edu/activities/books/rit/chapter1/lesson1/index.htm)
 + [4 Functions of a Computer](https://turbofuture.com/computers/The-Four-Functions-Of-A-Computer)
