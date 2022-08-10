@@ -167,6 +167,47 @@ German messages during World War II.
   - [Quantum_supremacy](https://en.wikipedia.org/wiki/Quantum_supremacy)
 ![Quantum Computer](https://static01.nyt.com/images/2019/12/09/business/06technewsletter-print/merlin_163200591_5f00de6c-e351-491f-98a0-231a5103a032-superJumbo.jpg)
 
+# 3 Computer System Components:Computer Parts & Functions
+## 3.1 Computer System Components
++ Input Devices
++ Output Devices
++ System Unit
+
+![Computer System Components](http://as-ict-ria-yves.weebly.com/uploads/1/3/5/6/13561983/1203549_orig.jpg)
+
+![Computer System Components 2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTla6MW85e1fMfy9_xtO6t6r-CFWN4Qzjh-Xw&usqp=CAU)
+
+### 3.1.1 Input Devices
++ An input device is any hardware component that allows you to enter data and instructions into a computer.
+
+![Input Devices](https://xyologic.com/wp-content/uploads/2021/08/Input-devices-of-computer-750x400.jpg)
+
+### 3.1.2 Output Devices
++ An output device is any hardware component that conveys information to one or more people.
+
+![Output Devices](https://1.bp.blogspot.com/-v3Qf1SxqU1U/YJLzRdvSppI/AAAAAAAABLI/-rT1GhW1RKwFvP1gmmUQCkbMyF80oyajQCLcBGAsYHQ/s0/Output%2BDevices%2Bof%2BComputer%2B%2528www.tutorialsmate.com%2529.png)
+
+### 3.1.3 System Unit
++ The system unit is a case that contains the electronic components of the computer that are used to process data.
+
+![System Unit](https://sites.google.com/site/computersavvy92/_/rsrc/1419233228564/home/inside-the-system-unit/Untitled.jpg)
+
+#### 3.1.3.1 [Motherboard](https://en.wikipedia.org/wiki/Motherboard)
++ It holds and allows communication between many of the crucial electronic components of a system, such as the central processing unit (CPU) and memory, and provides connectors for other [peripherals](https://en.wikipedia.org/wiki/Peripheral).
+
+![Motherboard](https://i.ytimg.com/vi/DCcJ5U9dGTs/maxresdefault.jpg)
+
+#### 3.1.3.2 [central processing unit (CPU)](https://en.wikipedia.org/wiki/Central_processing_unit)
++ A central processing unit (CPU), also called a central processor, main processor or just processor, is the electronic circuitry that executes instructions comprising a computer program.
++ The CPU performs basic arithmetic, logic, controlling, and input/output (I/O) operations specified by the instructions in the program. 
+
+![cpu](https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL292ZXJjbG9jay1jcHUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1NDAsImhlaWdodCI6MzAzfX19)
+
++ [Types of CPUS](https://digitalworld839.com/types-of-central-processing-unit/)
+![](https://digitalworld839.com/ezoimgfmt/digitalworld839.b-cdn.net/wp-content/uploads/Types-of-Central-processing-Unit-CPU-Processors.jpg?ezimgfmt=ng:webp/ngcb3)
+
+
+
 
 # References
 + [Computers Are Everywhere](https://cs.calvin.edu/activities/books/rit/chapter1/lesson1/index.htm)
