@@ -78,8 +78,7 @@ Primary memory usually refers to Random Access Memory (RAM), while secondary sto
 ### 1.4.4 Data and Information Storage
 + A computer can store information internally and externally. The hard disk drive (HDD) and/or solid-state disk drive (SSD) are internal storage devices and serve to protect and house all data and information on a computer. In bigger systems, the RAID system is used. Multiple disk drives operate simultaneously to ensure data and information integrity.
   - [See more details here](https://www.securedatarecovery.com/blog/hdd-storage-evolution)
-  - [Did Gates Really Say 640K is Enough For Anyone?](https://www.wired.com/1997/01/did-gates-really-say-640k-is-enough-for-anyone)
-  - [How did game developers pack entire games into so little memory twenty five years ago?](https://www.quora.com/How-did-game-developers-pack-entire-games-into-so-little-memory-twenty-five-years-ago/answer/Dave-Baggett?srid=z9ZA&utm_campaign=Contact+SNS+For+More+Referrer&utm_medium=twitter&share=1&utm_source=snsanalytics)
+  
 
 <img alt="hdd" src="https://www.securedatarecovery.com/blog/wp-content/uploads/2019/02/stats1.png" style="width:600px; height:400px;">
 
@@ -241,7 +240,8 @@ German messages during World War II.
 #### 3.1.3.4 [Random-access memory(RAM)](https://en.wikipedia.org/wiki/Random-access_memory)
 + Random-access memory (RAM; /ræm/) is a form of computer memory that can be read and changed in any order, typically used to store working data and machine code.
 + A random-access memory device allows data items to be read or written in almost the same amount of time irrespective of the physical location of data inside the memory, in contrast with other direct-access data storage media (such as hard disks, CD-RWs, DVD-RWs and the older magnetic tapes and drum memory), where the time required to read and write data items varies significantly depending on their physical locations on the recording medium, due to mechanical limitations such as media rotation speeds and arm movement.
-
+  - [Did Gates Really Say 640K is Enough For Anyone?](https://www.wired.com/1997/01/did-gates-really-say-640k-is-enough-for-anyone)
+  - [How did game developers pack entire games into so little memory twenty five years ago?](https://www.quora.com/How-did-game-developers-pack-entire-games-into-so-little-memory-twenty-five-years-ago/answer/Dave-Baggett?srid=z9ZA&utm_campaign=Contact+SNS+For+More+Referrer&utm_medium=twitter&share=1&utm_source=snsanalytics)
 
 <img alt="ram" src="https://www.computerhope.com/cdn/computer-memory.png" style="width:600px; height:400px;">
 
