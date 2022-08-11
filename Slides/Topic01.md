@@ -77,9 +77,19 @@ Primary memory usually refers to Random Access Memory (RAM), while secondary sto
 
 ### 1.4.4 Data and Information Storage
 + A computer can store information internally and externally. The hard disk drive (HDD) and/or solid-state disk drive (SSD) are internal storage devices and serve to protect and house all data and information on a computer. In bigger systems, the RAID system is used. Multiple disk drives operate simultaneously to ensure data and information integrity.
+  - [See more details here](https://www.securedatarecovery.com/blog/hdd-storage-evolution)
+
+![hdd-storage-evolution](https://www.securedatarecovery.com/blog/hdd-storage-evolution)
+
 + External storage is achieved through accessories that attach externally to the computer. They include external drives and optical disks.
 + Better still data and information can be stored online in cloud solutions for a fee or for a fee if large space is required.
-+ Storage integrity is a crucial phase that can actually determine the worth of a computer system. 
+
+![cloud](https://www.macworld.com/wp-content/uploads/2022/02/cloud-storage-primary-100758711-orig.jpg?quality=50&strip=all)
+
+
++ [Storage integrity](https://www.talend.com/resources/what-is-data-integrity/) is a crucial phase that can actually determine the worth of a computer system. 
+  - Data integrity is the overall accuracy, completeness, and consistency of data. Data integrity also refers to the safety of data in regard to regulatory compliance — such as GDPR compliance — and security. It is maintained by a collection of processes, rules, and standards implemented during the design phase.
+  - ![Data integrity](https://info.varonis.com/hs-fs/hubfs/Imported_Blog_Media/data-integrity-checklist-1.png?width=710&height=575&name=data-integrity-checklist-1.png)
 
 ## 1.5 Fundamentals of Computer Systems: Hardware and Software
 + **Hardware** - Physical components that make up a computer system.
