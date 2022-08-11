@@ -132,6 +132,11 @@ Primary memory usually refers to Random Access Memory (RAM), while secondary sto
 
 ![how is a letter convert to binary form and back](https://slideplayer.com/slide/13901522/85/images/21/Data+Representation+How+is+a+letter+converted+to+binary+form+and+back.jpg)
 
+#### Unicode and others
+
++ [Unicode Home](https://home.unicode.org/)
++ [Unicode Wiki](https://en.wikipedia.org/wiki/Unicode)
+
 # 2. History of Computers
 
 ## 2.1 Cogs and Calculators
