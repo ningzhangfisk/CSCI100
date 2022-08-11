@@ -62,6 +62,9 @@ Primary memory usually refers to Random Access Memory (RAM), while secondary sto
 
 ![chips](https://data.embeddedcomputing.com/uploads/articles/wp/1462/54176dc2ec16c-Vivante-Sept-Fig1.jpg)
 
++ Discussion: The more, the better?
+  - [THE SPACE SHUTTLE VS. SMART PHONES](https://dospace.org/blog/the-space-shuttle-vs-smart-phones)
+
 ### 1.4.3 Information Output
 + When raw data has been manipulated by the microprocessor, the outcome is meant to be disseminated for useful purposes. The output is thus referred to as information and is beneficial to the computer user.
 + Processed data or information can be
