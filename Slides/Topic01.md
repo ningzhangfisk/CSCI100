@@ -1,8 +1,13 @@
 # CSCI100: Introduction to Computing
 # Dr. Ning Zhang
 # Topic 1: Computer Architectures
++ What is Computer?
++ History of Computer
++ Components of Computer
++ Categories of Computer
 
 # 1. What is Computer?
+
 
 ## 1.1 Computers are everywhere.
 + The modern electronic computer is certainly one of the most influential inventions of the twentieth century.
