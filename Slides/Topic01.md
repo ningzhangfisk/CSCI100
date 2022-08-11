@@ -10,6 +10,10 @@
 
 ![Computers are everywhere](http://alignminds.com/wp-content/uploads/2020/02/Computing-everywhere-whats-in-store.png)
 
++ [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things)
+
+![Internet of Things](https://www.tibco.com/sites/tibco/files/media_entity/2020-05/IoT.png)
+
 ## 1.2 What is computer?
 + A computer is an electronic device, operating the instructions stored in its own memory.
 + A computer can accept data, process the data, produce results, and store the results for future use.
