@@ -79,7 +79,7 @@ Primary memory usually refers to Random Access Memory (RAM), while secondary sto
 + A computer can store information internally and externally. The hard disk drive (HDD) and/or solid-state disk drive (SSD) are internal storage devices and serve to protect and house all data and information on a computer. In bigger systems, the RAID system is used. Multiple disk drives operate simultaneously to ensure data and information integrity.
   - [See more details here](https://www.securedatarecovery.com/blog/hdd-storage-evolution)
 
-![hdd-storage-evolution](https://www.securedatarecovery.com/blog/hdd-storage-evolution](https://www.securedatarecovery.com/blog/wp-content/uploads/2019/02/stats1.png)
+<img alt="hdd" src="https://www.securedatarecovery.com/blog/wp-content/uploads/2019/02/stats1.png" style="width:600px; height:400px;">
 
 + External storage is achieved through accessories that attach externally to the computer. They include external drives and optical disks.
 + Better still data and information can be stored online in cloud solutions for a fee or for a fee if large space is required.
