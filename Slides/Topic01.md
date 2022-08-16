@@ -290,7 +290,7 @@ German messages during World War II.
 
 + Apple computers usually use a Macintosh operating system
 
-<img alt="mac os" src="https://www.apple.com/newsroom/images/product/os/macos/standard/Apple-previews-macOS-Catalina-Gallery-screen-06032019_big_carousel.jpg.large.jpg
+<img alt="mac os" src="https://www.apple.com/newsroom/images/product/os/macos/standard/Apple-previews-macOS-Catalina-Gallery-screen-06032019_big_carousel.jpg
 " style="width:600px; height:400px;">
 
 ## 4.2 Mobile Computers
