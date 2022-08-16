@@ -186,6 +186,8 @@ German messages during World War II.
 
 ![IC](https://cdn4.explainthatstuff.com/integratedcircuitnasa.jpg)
 
++ [What is nm in processor?](https://ourtechroom.com/tech/nm-in-processor-nanometer-5nm-7nm-10nm-14nm-processor-size/)
+
 ## 2.8 Modern computers
 
 ![Modern computers](https://media.istockphoto.com/photos/modern-computer-devices-picture-id490307726)
