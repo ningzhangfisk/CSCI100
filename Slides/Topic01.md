@@ -188,6 +188,8 @@ German messages during World War II.
 
 + [What is nm in processor?](https://ourtechroom.com/tech/nm-in-processor-nanometer-5nm-7nm-10nm-14nm-processor-size/)
 
++ [From Sand to Silicon: The Making of a Microchip | Intel](https://www.youtube.com/watch?v=_VMYPLXnd7E)
+
 ## 2.8 Modern computers
 
 ![Modern computers](https://media.istockphoto.com/photos/modern-computer-devices-picture-id490307726)
