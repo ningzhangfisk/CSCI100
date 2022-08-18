@@ -233,6 +233,7 @@ German messages during World War II.
 
 #### 3.1.3.2 [central processing unit (CPU)](https://en.wikipedia.org/wiki/Central_processing_unit)
 + A central processing unit (CPU), also called a central processor, main processor or just processor, is the electronic circuitry that executes instructions comprising a computer program.
++ CPU can not understand the programming language (e.g. C++, Java, Python...) directly. CPU is controlled by [Machine Code](https://en.wikipedia.org/wiki/Machine_code).
 + The CPU performs basic arithmetic, logic, controlling, and input/output (I/O) operations specified by the instructions in the program. 
 
 ![cpu](https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL292ZXJjbG9jay1jcHUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1NDAsImhlaWdodCI6MzAzfX19)
@@ -252,7 +253,7 @@ German messages during World War II.
 
 
 #### 3.1.3.4 [Random-access memory(RAM)](https://en.wikipedia.org/wiki/Random-access_memory)
-+ Random-access memory (RAM; /ræm/) is a form of computer memory that can be read and changed in any order, typically used to store working data and machine code.
++ Random-access memory (RAM; /ræm/) is a form of computer memory that can be read and changed in any order, typically used to store **working** data and machine code(what will happen if the computer is shut down?).
 + A random-access memory device allows data items to be read or written in almost the same amount of time irrespective of the physical location of data inside the memory, in contrast with other direct-access data storage media (such as hard disks, CD-RWs, DVD-RWs and the older magnetic tapes and drum memory), where the time required to read and write data items varies significantly depending on their physical locations on the recording medium, due to mechanical limitations such as media rotation speeds and arm movement.
   - [Did Gates Really Say 640K is Enough For Anyone?](https://www.wired.com/1997/01/did-gates-really-say-640k-is-enough-for-anyone)
   - [How did game developers pack entire games into so little memory twenty five years ago?](https://www.quora.com/How-did-game-developers-pack-entire-games-into-so-little-memory-twenty-five-years-ago/answer/Dave-Baggett?srid=z9ZA&utm_campaign=Contact+SNS+For+More+Referrer&utm_medium=twitter&share=1&utm_source=snsanalytics)
@@ -260,7 +261,7 @@ German messages during World War II.
 <img alt="ram" src="https://www.computerhope.com/cdn/computer-memory.png" style="width:600px; height:400px;">
 
 #### 3.1.3.5 [Hard disk drive](https://en.wikipedia.org/wiki/Hard_disk_drive)
-+ A hard disk drive (HDD), hard disk, hard drive, or fixed disk[b] is an electro-mechanical data storage device that stores and retrieves digital data using magnetic storage with one or more rigid rapidly rotating platters coated with magnetic material.
++ A hard disk drive (HDD), hard disk, hard drive, or fixed disk is an electro-mechanical data storage device that stores and retrieves digital data using magnetic storage with one or more rigid rapidly rotating platters coated with magnetic material(what will happen if the computer is shut down?).
 + [How hard drive works](https://cs.stanford.edu/people/nick/how-hard-drive-works/#:~:text=The%20hard%20drive%20contains%20a,the%20stored%200's%20and%201's)
 
 <img alt="hdd" src="https://cdn.britannica.com/63/74063-050-2714FB88/hard-drive.jpg" style="width:600px; height:400px;">
