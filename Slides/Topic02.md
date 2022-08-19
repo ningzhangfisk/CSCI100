@@ -68,3 +68,45 @@
 + Binary notation uses 2 digits: **0,1**
 
 ![binary](https://www.mathsisfun.com/numbers/images/binary-number.svg)
+
+
++ Binary vs. Decimal
+
+![binary vs decimal](http://shortrope.com/wp-content/uploads/2015/04/Binary-Primer.png)
+
+### 2.3.3 ASCII
++ ASCII Table
+
+![ASCII](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ASCII-Table-wide.svg/875px-ASCII-Table-wide.svg.png)
+
++ Example
+
+![ASCII example](https://computerscienceiseasy.com/wp-content/uploads/2021/01/ASCII-example.png)
+
+## 2.4 Kilobyte, Megabyte, Gigabyte, Terabyte
+
+![kb mb....](http://itcflm.weebly.com/uploads/5/8/3/5/58352013/560677_orig.png)
+
+### 2.4.1 Kilobyte or KB
++ Kilobyte KB - about 1 thousand bytes.
++ A small email text is about 2KB.
++ Text does not take a lot of bytes to store compared to image or video.
+
+### 2.4.2 Megabyte or MB
++ Megabyte MB - about 1 million bytes.
++ MP3 audio is about 1 megabyte per minute.
++ A high quality digital picture is about 2-5 megabytes.
+
+### 2.4.3 Gigabyte or GB
++ Gigabyte GB - about 1 billion bytes
++ A standard definition (SD) movie that you download to your device for streaming tends to be between 1 GB and 2 GBs, while high definition (HD) videos are twice that, ranging from 2 to 4 Gigabytes.
++ An ordinary computer might have 8GB RAM.
+
+### 2.4.4 Terabyte or TB
++ Terabyte TB - about 1,000,000,000,000 bytes
++ You can buy TB hard drives today.
++ We are just beginning the time.
+
+# References
+[Stanford CS101](https://web.stanford.edu/class/cs101/bits-bytes.html)
+[why are text files 4kb?](http://unix.stackexchange.com/questions/62049/why-are-text-files-4kb)
