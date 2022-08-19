@@ -29,8 +29,8 @@
 |3|000,001,010,011 <br> 100,101,110,111|
 
 + Q: Can you find the formula? 
-+<details>
+<details>
     <summary>Click to see the answer!</summary>
   
-    **2^n, where n is the number of bits.**
+    **2<sup>n</sup>, where n is the number of bits.**
 </details>
