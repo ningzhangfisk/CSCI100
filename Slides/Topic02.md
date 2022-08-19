@@ -32,5 +32,16 @@
 <details>
     <summary>Click to see the answer!</summary>
   
-    $$2^n$$, where n is the number of bits.
+    $$2^n$$, 2 to the power of n, where n is the number of bits.
 </details>
+
+## 2.2 Bit v.s. Byte
++ Bit is too small to be much use.
++ Group `8 bits` into a `byte`.
+
+![bit vs byte](https://4.bp.blogspot.com/-17MDkedGL_8/WfwkTk_-4LI/AAAAAAAABL0/RGhGT5X5SaMSezBJkFETdHt1BkT0YTv3ACLcBGAs/w1200-h630-p-k-no-nu/bytes-wide-768x238.png)
+
+### 2.2.1 How Many Patterns Can One Byte Hold?
+~~~~
+1bit: 2^1 =2 patterns
+~~~~
