@@ -1,6 +1,8 @@
 # CSCI100
 # Dr. Ning Zhang
-# Topic 2: Binary and Digital Images
+# Topic 2: Binary and Digital Image
+
+# 1 Binary 
 
 ![binary joke](https://i.imgur.com/zzyXX5m.jpg)
 
@@ -107,6 +109,32 @@
 + You can buy TB hard drives today.
 + We are just beginning the time.
 
+### 2.4.5 Why Does My SSD Show up as Smaller than Advertised?
+[Link](https://www.crucial.com/support/articles-faq-ssd/ssd-showing-smaller-than-advertised)
+
+## 2.5 More Number Systems
+### 2.5.1 Octal numbers
++ Octal notation uses 8 digits: **0,1,2,3,4,5,6,7**
+
+![octal](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200918224440/Octal-to-Decimal-Conversion1.png)
+
+### 2.5.2 Hexadecimal numbers
+
+![hex in computer](https://cdn.sparkfun.com/assets/learn_tutorials/2/1/0/hex-intro.png)
+
++ Hex notation uses 15 digits: **0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F**
++ Software developers and system designers widely use hexadecimal numbers because they provide a human-friendly representation of binary-coded values. Each hexadecimal digit represents four bits (binary digits), also known as a nibble (or nybble).
+
+![HEX](https://www.w3resource.com/w3r_images/csharp-basic-image-exercise-30.png)
+
+
+# Part II: Digital Image
++ Digital images are everywhere.
++ Digital image: lots of numbers in the computer.
+
+![digital image](https://www.dspguide.com/graphics/F_23_1.gif)
+
+## 
 # References
 [Stanford CS101](https://web.stanford.edu/class/cs101/bits-bytes.html)
 [why are text files 4kb?](http://unix.stackexchange.com/questions/62049/why-are-text-files-4kb)
