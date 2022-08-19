@@ -141,6 +141,14 @@
 
 ![pixel](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYeigAiVh9qBkI4UjfUpXXxDlQxUIXkKka5WWYHx5Gd7UO4BftaNnIRuOWoscMz26iBHk&usqp=CAU)
 
+### 2.6.1 How to represent the color of a pixel?
++ The `red/green/blue(RGB)` scheme is one popular way of representing a color in the computer.
++ In RGB, every color is defined as a particular combination of pure red, green, and blue light.
++ Each pixel has 3 numbers to define its RGB color.
+### 2.6.1 RGB – three numbers
++ Any color can be made by combining red/green/blue.
++ Any color can be represented by three numbers.
++ A number is in the range [0,255].
 # References
 [Stanford CS101](https://web.stanford.edu/class/cs101/bits-bytes.html)
 [why are text files 4kb?](http://unix.stackexchange.com/questions/62049/why-are-text-files-4kb)
