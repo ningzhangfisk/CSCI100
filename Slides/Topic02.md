@@ -2,7 +2,7 @@
 # Dr. Ning Zhang
 # Topic 2: Binary and Digital Image
 
-# 1 Binary 
+# Part I: Binary 
 
 ![binary joke](https://i.imgur.com/zzyXX5m.jpg)
 
@@ -134,7 +134,13 @@
 
 ![digital image](https://www.dspguide.com/graphics/F_23_1.gif)
 
-## 
+## 2.6 Pixels
++ An image is made of many pixels.
++ Each pixel is a small square that shows a single color.
++ An image of 800 pixels wide and 600 pixels high has 800 × 600 = 480,000 pixels.
+
+![pixel](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYeigAiVh9qBkI4UjfUpXXxDlQxUIXkKka5WWYHx5Gd7UO4BftaNnIRuOWoscMz26iBHk&usqp=CAU)
+
 # References
 [Stanford CS101](https://web.stanford.edu/class/cs101/bits-bytes.html)
 [why are text files 4kb?](http://unix.stackexchange.com/questions/62049/why-are-text-files-4kb)
