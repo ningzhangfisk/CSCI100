@@ -42,6 +42,4 @@
 ![bit vs byte](https://4.bp.blogspot.com/-17MDkedGL_8/WfwkTk_-4LI/AAAAAAAABL0/RGhGT5X5SaMSezBJkFETdHt1BkT0YTv3ACLcBGAs/w1200-h630-p-k-no-nu/bytes-wide-768x238.png)
 
 ### 2.2.1 How Many Patterns Can One Byte Hold?
-~~~~
-1bit: 2^1 =2 patterns
-~~~~
++ 1 bit: $$2^1 = 2$$ patterns.
