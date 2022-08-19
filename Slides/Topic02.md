@@ -32,5 +32,5 @@
 <details>
     <summary>Click to see the answer!</summary>
   
-    **2<sup>n</sup>, where n is the number of bits.**
+    $$2^n$$, where n is the number of bits.
 </details>
