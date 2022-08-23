@@ -34,7 +34,7 @@
 <details>
     <summary>Click to see the answer!</summary>
   
-    **2^n**, 2 to the power of n, where n is the number of bits.
+    2^n, 2 to the power of n, where n is the number of bits.
 </details>
 
 ## 2.2 Bit v.s. Byte
