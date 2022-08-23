@@ -76,7 +76,7 @@
 
 ![binary vs decimal](http://shortrope.com/wp-content/uploads/2015/04/Binary-Primer.png)
 
-+ More examples
++ More examples(If you want to learn how to convert decimal numbers into binary, see [link 1](https://www.cuemath.com/numbers/decimal-to-binary/) and [link 2](https://www.log2base2.com/number-system/float-to-binary-conversion.html))
     - $1.5 = 1\times2^0 + 1\times\frac{1}{2}$, so the exact value of decimal 1.5 can be store as 1.1 in binary.
     - $1.6 = 1\times2^0 + 1\times\frac{1}{2^1} + 0\times\frac{1}{2^2}  + 0\times\frac{1}{2^3}+ 1\times\frac{1}{2^4} + \ldots$, so the exact value of decimal 1.6 can be store as a binary number.
 ### 2.3.3 ASCII
