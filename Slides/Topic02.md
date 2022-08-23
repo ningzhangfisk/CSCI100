@@ -45,13 +45,13 @@
 
 ### 2.2.1 How Many Patterns Can One Byte Hold?
 + 1 bit: $2^1 = 2$ patterns.
-+ 2 bit: $2^1 = 4$ patterns.
-+ 3 bit: $2^1 = 8$ patterns.
-+ 4 bit: $2^1 = 16$ patterns.
-+ 5 bit: $2^1 = 32$ patterns.
-+ 6 bit: $2^1 = 64$ patterns.
-+ 7 bit: $2^1 = 128$ patterns.
-+ 8 bit: $2^1 = 256$ patterns.
++ 2 bit: $2^2 = 4$ patterns.
++ 3 bit: $2^3 = 8$ patterns.
++ 4 bit: $2^4 = 16$ patterns.
++ 5 bit: $2^5 = 32$ patterns.
++ 6 bit: $2^6 = 64$ patterns.
++ 7 bit: $2^7 = 128$ patterns.
++ 8 bit: $2^8 = 256$ patterns.
 + Mathematically, n bits yields $2^n$ patterns ( 2 to the nth power).
 
 ### 2.2.2 How to store a number in a byte?
