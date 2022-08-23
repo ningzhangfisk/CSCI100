@@ -78,7 +78,7 @@
 
 + More examples
     - $1.5 = 1\times2^0 + 1\times\frac{1}{2}$, so the exact value of decimal 1.5 can be store as 1.1 in binary.
-    - $1.6 = 1\times2^0 + 1\times\frac{1}{2^1} + 1\times\frac{1}{2^4} + \ldots$, so the exact value of decimal 1.6 can be store as a binary number.
+    - $1.6 = 1\times2^0 + 1\times\frac{1}{2^1} + 0\times\frac{1}{2^2}  + 0\times\frac{1}{2^3}+ 1\times\frac{1}{2^4} + \ldots$, so the exact value of decimal 1.6 can be store as a binary number.
 ### 2.3.3 ASCII
 + ASCII Table
 
