@@ -154,6 +154,268 @@
 
 ![Cloud Apps](https://managedmethods.com/wp-content/uploads/what-is-cloud-application-security-blog-featured.jpg)
 
+# 3.3 Python Programming Language
+## 3.3.1 Intro to Python
++ [Python](https://www.python.org/) Programming language is very easy to use and commonly used for Industry applications.
+
+![python org](http://blog.heroesofprogramming.com/assets/images/2016/10/python.org.png)
+
++ Used by most of the top U.S. Schools
+
+![python Used by most of the top U.S. Schools](https://m-cacm.acm.org/system/assets/0001/6722/Top39-700.4.png)
+
++ Very active ONLINE support Community
+
+![growth of major programming languages 2022](https://grapecitycontentcdn.azureedge.net/blogs//grapecity/20181026-the-growth-of-major-programming-languages/3.jpg)
+
++ Used for Data Science and Machine Learning
+
+![Used for Data Science and Machine Learning](https://www.kdnuggets.com/images/top-analytics-data-science-machine-learning-software-2019-3yrs-590.jpg)
+
++ used by non-CS users: **Task Automation**
+  - Reading and writing files
+  - Sending emails
+  - Web scraping: Web scraping allows you to extract data from Web pages and save it on your hard drive.
+
+  ![scraping](https://miro.medium.com/max/721/1*xIH77_Q6W6v2ZA6tf9hrDQ.png)
+  
+  - Office task automation: e.g., Python + Excel
+
++ Free Software – Available in PC Labs
+  - Python is completely FREE
+    + It is available in Computer Labs(322 Park Johnson Hall, Library (Lower Floor)).
+    + If you have a laptop/desktop, you can download (and install) Python on your computer.
+    + MAC Users: Python 2 is already included in MacOS; however, please download Python 3.
+
++ Other Distributions/Platforms
+  - [Anaconda](https://www.anaconda.com/products/distribution)
+  - [Jupyter notebook](https://jupyter.org/): If you need to save the results of your program, or need visualizations, Jupyter is highly recommended.
++ Python IDEs
+  - An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development.
+  - Some IDEs for Python
+    + IDLE
+    + PyCharm
+    + Spyder
+    + Atom
+    + Eclipse
+    + ...
+## 3.3.2 Replit: 
++ [Replit](https://replit.com/), formerly Repl.it, is a San Francisco-based start-up and an online IDE (integrated development environment).
++ Replit allows users to create online projects (called Repls) and write code in many supported languages including Python. Its features include collaborative coding, syntax highlighting, code completion, debugging, hosting, unit testing, version control, package management, and code generation via artificial intelligence.
++ You can fidn all the code used in this class [here](https://replit.com/@ZhangNing1/CSCI100NingZhang).
+
+### 3.3.2.1 Hello World
++ In `main.py` file, write the following code
+~~~~
+print("Hello World!")
+~~~~
++ [History of “Hello World”](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
+
+## 3.3.3 Data Types
+### 3.3.3.1 print function
++ Functionality: print a string onto screen
++ Syntax
+~~~~
+print(a_string)
+~~~~
++ Example
+~~~~
+# Comments are used to describe your code.
+# Any code after Hash sign is ignored.
+# enter your name
+print("Ning Zhang")
+print('Fisk University')
+
+# my favorite movie
+print("The Shawshank Redemption")
+
+# my favorite song
+print("My favorite song is " + "Telegraph Road")
+~~~~
+### 3.3.3.2 Data types
++ What are they?
+  - Building blocks of computer science and programming
+    + Spoken language: each word is a part of speech (noun, adjective, verb).
+    + Programming language: each value has a data type.
+  - Classification for values
+  
+![3-1](../Resources/3-1.png)
+
+#### integer
++ integer: number without decimal point
++ Commonly abbreviated as `int`.
++ Examples
+~~~~
+5
+-40
+0
+13382
+~~~~
+####  float
++ float: number with decimal point
++ Comes from term `floating point number`
++ Examples
+~~~~
+3.14159
+2.0
+-9.5
+~~~~
++ Why does integer vs float matter?
+  - Computers are faster at doing math with integers
+  - Floats sometimes don’t make sense (can you be in 2.35th place?) and vice versa
+#### string
++ string: sequence of characters with single quotes or double quotes
++ Commonly abbreviated as `str`
++ Examples: 
+~~~~
+'abcdefg'
+"Hello!"
+"3.14"
+~~~~
++ Why single quotes vs. double quotes?
+  - You can use either single or double quotes, but not the same time. 
+  - If you use single quote(s) inside a pair of double quotes, the single quote(s) will be viewed as regular character(s). 
+  - If you use double quote(s) inside a pair of single quotes, the double quote(s) will be viewed as regular character(s).
+~~~~
+"Hello World"
+'Hello World'
+"My name’s Alicia"
+# the following is not a string
+'My name's Alicia
+~~~~
+#### boolean
++ boolean: has value true or false
++ Commonly abbreviated as bool
++ Examples
+~~~~
+True
+False
+~~~~
++ Practice: string or boolean?
+~~~~
+"cookie"
+False
+""
+''
+'False'
+True
+~~~~
+
+<details>
+    <summary>Click to see the answer!</summary>
+    "cookie" -> string
+    False -> boolean
+    "" -> empty string
+    '' -> empty string
+    'False' -> string
+    True -> boolean
+</details>
+
+
+#### Why are they important?
++ Do different things
++ Example: can do arithmetic (add, subtract, multiply, divide) on integers and floats, but not on strings and booleans
++ Know what data type to know how to use it
+
+## 3.3.4 Operators
++ Key Terms
+  - **operator**: symbol performing specific computation on set of values
+  - **expression**: combination of operators and values evaluating to single value
++ Evaluating expressions
+
+![3-2](../Resources/3-2.png)
+
+### 3.3.4.1  Arithmetic Operators
+~~~~
++    Add(Adding strings together is called concatenation)
+-    Subtract
+*    Multiply
+/    Divide
+**  Exponent
+~~~~
+### 3.3.4.2 Floor Division
++ `//` divides two numbers and rounds result down to next integer.
+
+![floor](https://www.mathsisfun.com/sets/images/function-floor-ceiling.svg)
+
++ Examples:
+~~~~
+5 // 2 evaluates to 2
+5.0 // 2.0 evaluates to 2.0
+42 // 10 evaluates to 4
+9 // 9 evaluates to 1
+9.0 // 9.0 evaluates to 1.0
+~~~~
+
++ Practice
+~~~~
+56 // 5
+60.60 // 7
+3 // 3
+88.123 // 9.0
+~~~~
+<details>
+    <summary>Click to see the answer!</summary>
+    56 // 5 = 11
+    60.60 // 7 = 8.0
+    3 // 3 = 1
+    88.123 // 9.0 = 9.0
+</details>
+### 3.3.4.3 Modulo
++ `%` computes remainder after division.
+
+![modulo](https://www.computerhope.com/jargon/m/modulo_animation.gif)
+
++ For example:
+~~~~
+5 % 2 evaluates to 1
+5.0 % 2.0 evaluates to 1.0
+24 % 10 evaluates to 4
+9 % 9 evaluates to 0
+9.0 % 9.0 evaluates to 0.0
+~~~~
+
++ Practice
+~~~~
+56 % 5
+60.0 % 7.0
+3 % 3
+88.5 % 9.0
+~~~~
+<details>
+    <summary>Click to see the answer!</summary>
+    56 % 5 = 1
+    60.0 % 7.0 = 4.0
+    3 % 3 = 0
+    88.5 % 9.0 = 7.5
+</details>
+
+### Summary
++ If any operand is float, evaluated value is float.
++ If all operands are integers, evaluated value is intege.
++ EXCEPT DIVIDE `/`, evaluated value is always float .
+
+### 3.4.4.4 Order of Operations
++ 1. Parentheses
++ 2. Exponents
++ 3. Multiplication and Division
++ 4. Addition and Subtraction
+
+~~~~
+2 + 1 * 5 - 6 / 2 = 2 + 5 - 3 = 4
+
+3 + (1 + 4) * 2 = 3 + 5 * 2 = 3 + 10 = 13
+
+'a' + 'b' * 2 + 'c' = 'a' + 'bb' + 'c' = 'abbcc'
+~~~~
+
+### Summary
++ Values have different data types - can be integers, floats, booleans, or strings.
++ Can use arithmetic operators on integers and floats, concatenate strings.
++ Values and operators make up expressions.
++ Computers evaluate expressions down to single value.
+
+## 3.3.5 Variables
 
 # References
 + [Assembly - Introduction](https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm)
