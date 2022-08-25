@@ -1,6 +1,9 @@
 # CSCI110
 # Dr. Ning Zhang
 # Topic 3: Progamming Languages and Applications
++ Programming Languages
++ Applications
++ **Python**
 # 3.1 Programming Languages
 ## 3.1.2 Computer Languages
 ### 3.1.2.1 Machine Language
