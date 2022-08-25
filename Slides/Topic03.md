@@ -72,14 +72,14 @@
   - Selection code
   ~~~~
   a = 1
-  if a<0
+  if a<0:
       print(a, "is negtive.")
-  else
+  else:
       print(a, "is NOT negtive.")
   ~~~~
   - Iteration code
   ~~~~
-  for i in [1,2,3,4]
+  for i in [1,2,3,4]:
       print(i)
   ~~~~
 ### 3.1.4 Complier and Interpreter
