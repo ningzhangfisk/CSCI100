@@ -109,7 +109,7 @@
 |Keeps translating the program continuously till the first error is confronted. If any error is spotted, it stops working and hence debugging becomes easy.|A compiler generates the error message only after it scans the complete program and hence debugging is relatively harder while working with a compiler.|
 |Interpreters are used by programming languages like Ruby and Python for example.|Compliers are used by programming languages like C and C++ for example.|
 #### 3.1.4.4 Current trend
-+ Current trend is towards dynamic languages.
++ Current trend is towards [dynamic languages](https://en.wikipedia.org/wiki/Dynamic_programming_language).
 + It’s attractive to save some programmer time at the expense of some CPU memory use.
 + CPU cheap, programmer relatively rare/ expensive.
 
