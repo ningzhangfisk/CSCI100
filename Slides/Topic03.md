@@ -306,11 +306,11 @@ True
 
 <details>
     <summary>Click to see the answer!</summary>
-    "cookie" -> string
-    False -> boolean
-    "" -> empty string
-    '' -> empty string
-    'False' -> string
+    "cookie" -> string<br>
+    False -> boolean<br>
+    "" -> empty string<br>
+    '' -> empty string<br>
+    'False' -> string<br>
     True -> boolean
 </details>
 
