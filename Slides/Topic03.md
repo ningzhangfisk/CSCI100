@@ -359,10 +359,10 @@ True
 ~~~~
 <details>
     <summary>Click to see the answer!</summary>
-    56 // 5 = 11
-    60.60 // 7 = 8.0
-    3 // 3 = 1
-    88.123 // 9.0 = 9.0
+    56 // 5 = 11<br>
+    60.60 // 7 = 8.0<br>
+    3 // 3 = 1<br>
+    88.123 // 9.0 = 9.0<br>
 </details>
 ### 3.3.4.3 Modulo
 + `%` computes remainder after division.
