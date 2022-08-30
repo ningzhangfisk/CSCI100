@@ -364,7 +364,9 @@ True
     3 // 3 = 1<br>
     88.123 // 9.0 = 9.0<br>
 </details>
+
 ### 3.3.4.3 Modulo
+
 + `%` computes remainder after division.
 
 ![modulo](https://www.computerhope.com/jargon/m/modulo_animation.gif)
@@ -398,7 +400,7 @@ True
 + If all operands are integers, evaluated value is intege.
 + EXCEPT DIVIDE `/`, evaluated value is always float .
 
-### 3.4.4.4 Order of Operations
+### 3.3.4.4 Order of Operations
 + 1. Parentheses
 + 2. Exponents
 + 3. Multiplication and Division
