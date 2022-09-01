@@ -618,6 +618,7 @@ print("Next year, you'll be " + (age + 1) + "years old.")
 
 ### 3.3.7.1 Comparison Operators
 + Still remember this in Mathematics?
+
 |Operator|Meaning|
 |---|---|
 |<|less than|
