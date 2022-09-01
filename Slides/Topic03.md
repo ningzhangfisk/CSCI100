@@ -389,10 +389,10 @@ True
 ~~~~
 <details>
     <summary>Click to see the answer!</summary>
-    56 % 5 = 1
-    60.0 % 7.0 = 4.0
-    3 % 3 = 0
-    88.5 % 9.0 = 7.5
+    56 % 5 = 1<br>
+    60.0 % 7.0 = 4.0<br>
+    3 % 3 = 0<br>
+    88.5 % 9.0 = 7.5<br>
 </details>
 
 ### Summary
