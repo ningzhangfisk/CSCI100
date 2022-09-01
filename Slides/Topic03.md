@@ -472,12 +472,12 @@ _my_variable
 ~~~~
 <details>
     <summary>Click to see the answer!</summary>
-    my_num ✅
-    x - y ❌
-    1st_num ❌
-    num_1 ✅
-    a*b ❌
-    _my_variable ✅
+    my_num ✅<br>
+    x - y ❌<br>
+    1st_num ❌<br>
+    num_1 ✅<br>
+    a*b ❌<br>
+    _my_variable ✅<br>
 </details>
 
 #### Good naming is important!
@@ -658,14 +658,14 @@ print("Next year, you'll be " + (age + 1) + "years old.")
 
 <details>
     <summary>Click to see the answer!</summary>
-    5 < 6                  True
-    "55" == "5" * 2        True
-    10 > 15                False
-    9 != 3 * 3             False
-    4 + 3 <= 7             True
-    'hi' == 'bye'          False
-    1 * 3 != 10            True
-    2 != 1 + 1             False
+    5 < 6                  True<br>
+    "55" == "5" * 2        True<br>
+    10 > 15                False<br>
+    9 != 3 * 3             False<br>
+    4 + 3 <= 7             True<br>
+    'hi' == 'bye'          False<br>
+    1 * 3 != 10            True<br>
+    2 != 1 + 1             False<br>
 </details>
 
 ### Summary of Comparison Operators
