@@ -454,12 +454,12 @@ NUM_OF_STUENTS = 30
   - `reserved words`: Words used for specific purposes in Python
   ~~~~
   False 		class 		return	   is 		finally 
-  None 		if			for 	 	lambda	continue 
-  True 		def 		from 	 	while	nonlocal
-  and 		del 		global 	not 	with
-  as  		elif 		try			or 		yield
-  assert 	else 		import 	pass
-  break 	except 	in 			raise
+  None 		  if			  for 	 	   lambda	continue 
+  True 		  def 		  from 	 	   while	nonlocal
+  and 		  del 		  global 	   not 	  with
+  as  		  elif 		  try			   or 		yield
+  assert 	  else 		  import 	   pass
+  break 	  except 	  in 			   raise
   ~~~~
 + Practice
 ~~~~
