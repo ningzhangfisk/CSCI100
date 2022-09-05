@@ -823,16 +823,15 @@ if answer == "nashville" or "Nashville":
     <summary>Click to see the correct code!</summary>
 
 ![nashville 1](../Resources/nashville1.png)
+  
+![nashville 2](../Resources/nashville2.png)
+  
+![nashville 3](../Resources/nashville3.png)
+  
+![nashville 4](../Resources/nashville4.png)
 </details>
 
-![nashville 1](../Resources/nashville1.png)
-  
-    ![nashville 2](../Resources/nashville2.png)
-  
-    ![nashville 3](../Resources/nashville3.png)
-  
-  
-    ![nashville 4](../Resources/nashville4.png)
+
 
 
 <details>
