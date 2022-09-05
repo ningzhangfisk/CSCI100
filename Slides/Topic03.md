@@ -819,6 +819,12 @@ if answer == "nashville" or "Nashville":
   print("Correct!")
 ~~~~
 
+<details>
+    <summary>Click to see the correct code!</summary>
+
+![nashville 1](../Resources/nashville1.png)
+</details>
+
 ![nashville 1](../Resources/nashville1.png)
   
     ![nashville 2](../Resources/nashville2.png)
