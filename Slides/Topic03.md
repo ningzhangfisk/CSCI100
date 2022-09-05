@@ -820,7 +820,7 @@ if answer == "nashville" or "Nashville":
 ~~~~
 
 <details>
-    <summary>Click to see the correct code!</summary>
+    <summary>Click to see the explanation!</summary>
 
 ![nashville 1](../Resources/nashville1.png)
   
