@@ -472,7 +472,7 @@ _my_variable
 ~~~~
 <details>
     <summary>Click to see the answer!</summary>
-    my_num ✅<br>
+    my_num  ✅<br>
     x - y ❌<br>
     1st_num ❌<br>
     num_1 ✅<br>
@@ -658,14 +658,14 @@ print("Next year, you'll be " + (age + 1) + "years old.")
 
 <details>
     <summary>Click to see the answer!</summary>
-    5 < 6                  True<br>
-    "55" == "5" * 2        True<br>
-    10 > 15                False<br>
-    9 != 3 * 3             False<br>
-    4 + 3 <= 7             True<br>
-    'hi' == 'bye'          False<br>
-    1 * 3 != 10            True<br>
-    2 != 1 + 1             False<br>
+    5 < 6             ->      True<br>
+    "55" == "5" * 2   ->      True<br>
+    10 > 15           ->      False<br>
+    9 != 3 * 3        ->      False<br>
+    4 + 3 <= 7        ->      True<br>
+    'hi' == 'bye'     ->      False<br>
+    1 * 3 != 10       ->      True<br>
+    2 != 1 + 1        ->      False<br>
 </details>
 
 ### Summary of Comparison Operators
@@ -708,11 +708,11 @@ strawberry and strawberry
 
 <details>
     <summary>Click to see the answer!</summary>
-    vanilla and strawberry      False<br>
-    vanilla and chocolate       True<br>
-    chocolate and vanilla       True<br>
-    chocolate and strawberry    False<br>
-    strawberry and strawberry   False
+    vanilla and strawberry    ->   False<br>
+    vanilla and chocolate     ->   True<br>
+    chocolate and vanilla     ->   True<br>
+    chocolate and strawberry  ->   False<br>
+    strawberry and strawberry ->   False
 </details>
 
 
@@ -737,11 +737,11 @@ running or biking
 
 <details>
     <summary>Click to see the answer!</summary>
-    hiking or running      True<br>
-    hiking or biking       True<br>
-    biking or hiking       True<br>
-    biking or running      False<br>
-    running or biking      False
+    hiking or running  ->     True<br>
+    hiking or biking   ->     True<br>
+    biking or hiking   ->     True<br>
+    biking or running  ->     False<br>
+    running or biking  ->     False
 </details>
 
 
@@ -764,9 +764,9 @@ not green
 
 <details>
     <summary>Click to see the answer!</summary>
-    not blue    False  <br>
-    not red     True   <br>
-    not green   False  <br>
+    not blue  ->   False  <br>
+    not red   ->   True   <br>
+    not green ->   False  <br>
 </details>
 
 #### How is `not` different from `and` and `or`?
@@ -787,9 +787,9 @@ not (True or False) or True
 
 <details>
     <summary>Click to see the answer!</summary>
-    True and not False                 True<br>
-    (False or True) and False          False<br>
-    not (True or False) or True        True
+    True and not False           ->       True<br>
+    (False or True) and False    ->       False<br>
+    not (True or False) or True  ->       True
 </details>
 
 + Practice 2:  Animals on a Farm!
@@ -806,10 +806,10 @@ dog and not sheep or chicken
 
 <details>
     <summary>Click to see the answer!</summary>
-    not dog or not chicken and sheep     True<br>
-    chicken and dog or not sheep         False <br>
-    not chicken or not sheep or dog      False<br>
-    dog and not sheep or chicken         True
+    not dog or not chicken and sheep   ->   True<br>
+    chicken and dog or not sheep       ->   False <br>
+    not chicken or not sheep or dog    ->   False<br>
+    dog and not sheep or chicken       ->   True
 </details>
 
 + Practice 3: Find the bug in the following code.
