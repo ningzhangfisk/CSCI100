@@ -819,7 +819,7 @@ if answer == "nashville" or "Nashville":
   print("Correct!")
 ~~~~
 
-    ![nashville 1](../Resources/nashville1.png)
+![nashville 1](../Resources/nashville1.png)
   
     ![nashville 2](../Resources/nashville2.png)
   
