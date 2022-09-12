@@ -160,7 +160,7 @@ if answer == "nashville" or "Nashville":
 
 <details>
     <summary>Click to see the correct code!</summary>
-    answer = input("What city is Fisk in?")
-    if answer == "nashville" or answer == "Nashville":
-      print("Correct!")
+    answer = input("What city is Fisk in?")<br>
+    if answer == "nashville" or answer == "Nashville":<br>
+      print("Correct!")<br>
 </details>
