@@ -43,7 +43,8 @@
 ## 3.3.8 Logical Operators
 + See slides [here](Logical.md)
   
-
+## 3.3.9 For Loops
++ See slides [here](ForLoop.md)
 
 
 # References
