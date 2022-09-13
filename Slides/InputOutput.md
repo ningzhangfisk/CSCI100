@@ -46,12 +46,4 @@ print("Next year, you'll be " + (age + 1) + "years old.")
 + How (in Python)?
   - input(): get input from user
   - print(): show output to user
-## 3.3.7 Comparison Operators and Conditionals
 
-![3-6](../Resources/3-6.png)
-
-+ when `order_cost = 26.95`, which statement should we execute?
-  - `print("Shipping is free!")`
-  - `print("Shipping is $5.99")`
-
-![3-7](../Resources/3-7.png)
