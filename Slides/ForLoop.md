@@ -54,7 +54,7 @@ else:
 + Practice: in operator
 ~~~~
 'N' in 'Nashville, TN'
-'n' in 'Nashville, TN''
+'n' in 'Nashville, TN'
 
 
 char = ' '
