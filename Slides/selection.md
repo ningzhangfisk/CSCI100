@@ -84,16 +84,7 @@ print("done")
 ~~~~
 
 + Practice: Write a program to ask the user to provide an integer and find out the number is odd or even.
-
-<details>
-~~~~
- num = int(input("Please enter an integer: "))<br>
-    if num%2==1:<br>
-      print(num, "is an odd number.")<br>
-    else:<br>
-      print(num, "is an even number.")<br>  
-~~~~  
-</details>
+  - See answer [here](https://replit.com/@ZhangNing1/CSCI100NingZhang#EvenOddNumber.py)
 
 ## 3.3.10.3 nested-if
 + A nested if is an if statement that is the target of another if statement. Nested if statements mean an if statement inside another if statement. Yes, Python allows us to nest if statements within if statements. i.e, we can place an if statement inside another if statement.
