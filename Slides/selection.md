@@ -10,7 +10,7 @@
 # 3.3.10.1 `if` statement
 + if statement is the most simple decision-making statement. It is used to decide whether a certain statement or block of statements will be executed or not i.e if a certain condition is true then a block of statement is executed otherwise not.
 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/if-statement.jpg" style="width=300px; height=400px">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/if-statement.jpg" alter="if statement" style="width:300px; height:400px">
 
 
 + Syntax
