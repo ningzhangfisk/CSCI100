@@ -69,7 +69,7 @@ else:
 + Example
   - The condition is false, so the `else block` will be executed.
   - What if we change `i` to 10?
-  - the `print("done")` statement is NOT in the `if` statement, so it will always be executed.
+  - the `print("done")` statement is NOT in the `if-else` statement, so it will always be executed.
 ~~~~
 # python program to illustrate if else statement
   
