@@ -10,7 +10,7 @@
 # 3.3.10.1 `if` statement
 + if statement is the most simple decision-making statement. It is used to decide whether a certain statement or block of statements will be executed or not i.e if a certain condition is true then a block of statement is executed otherwise not.
 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/if-statement.jpg" alter="if statement" style="width:300px; height:400px">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/if-statement.jpg" alt="if statement" style="width:300px; height:400px">
 
 
 + Syntax
@@ -52,7 +52,9 @@ print("done")
 ## 3.3.10.2 `if else` statement
 + The `if` statement alone tells us that if a condition is true it will execute a block of statements and if the condition is false it won’t. But what if we want to do something else if the condition is false. Here comes the `else` statement. We can use the `else` statement with `if` statement to execute a block of code when the condition is false. 
 
-![if else diagram](https://media.geeksforgeeks.org/wp-content/uploads/if-else.jpg)
+
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/if-else.jpg" alt="if else statement" style="width:300px; height:400px">
+
 
 + Syntax
 ~~~~
@@ -94,7 +96,9 @@ print("done")
 ## 3.3.10.3 nested-if
 + A nested if is an if statement that is the target of another if statement. Nested if statements mean an if statement inside another if statement. Yes, Python allows us to nest if statements within if statements. i.e, we can place an if statement inside another if statement.
 
-![nested if](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200710163548/Nested_if.jpg)
+
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200710163548/Nested_if.jpg" alt="nested if statement" style="width:300px; height:400px">
+
 
 + Syntax
 ~~~~
@@ -133,8 +137,7 @@ else:
 + Here, a user can decide among multiple options. The if statements are executed from the top down. As soon as one of the conditions controlling the if is true, the statement associated with that if is executed, and the rest of the ladder is bypassed. If none of the conditions is true, then the final else statement will be executed.
 
 
-![if elif else]([http://www.trytoprogram.com/images/python_ifelseif.jpg](https://media.geeksforgeeks.org/wp-content/uploads/if-elseif-ladder.jpg))
-
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/if-elseif-ladder.jpg" alt=" if elif else statement" style="width:300px; height:400px">
 
 + Syntax
 ~~~~
