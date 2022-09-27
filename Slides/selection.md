@@ -10,7 +10,7 @@
 # 3.3.10.1 `if` statement
 + if statement is the most simple decision-making statement. It is used to decide whether a certain statement or block of statements will be executed or not i.e if a certain condition is true then a block of statement is executed otherwise not.
 
-![if diagram]([https://beginnersbook.com/wp-content/uploads/2017/09/if_statement_flow_diagram_C.jpg](https://media.geeksforgeeks.org/wp-content/uploads/if-statement.jpg))
+![if diagram](https://beginnersbook.com/wp-content/uploads/2017/09/if_statement_flow_diagram_C.jpg](https://media.geeksforgeeks.org/wp-content/uploads/if-statement.jpg)
 
 + Syntax
 
@@ -51,7 +51,7 @@ print("done")
 ## 3.3.10.2 `if else` statement
 + The `if` statement alone tells us that if a condition is true it will execute a block of statements and if the condition is false it won’t. But what if we want to do something else if the condition is false. Here comes the `else` statement. We can use the `else` statement with `if` statement to execute a block of code when the condition is false. 
 
-![if else diagram]([https://eecs.oregonstate.edu/ecampus-video/CS161/template/chapter_4/chapter4_images/4_08.png](https://media.geeksforgeeks.org/wp-content/uploads/if-else.jpg))
+![if else diagram](https://eecs.oregonstate.edu/ecampus-video/CS161/template/chapter_4/chapter4_images/4_08.png](https://media.geeksforgeeks.org/wp-content/uploads/if-else.jpg)
 
 + Syntax
 ~~~~
