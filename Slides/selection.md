@@ -86,11 +86,13 @@ print("done")
 + Practice: Write a program to ask the user to provide an integer and find out the number is odd or even.
 
 <details>
-    num = int(input("Please enter an integer: "))<br>
+~~~~
+ num = int(input("Please enter an integer: "))<br>
     if num%2==1:<br>
       print(num, "is an odd number.")<br>
     else:<br>
-      print(num, "is an even number.")<br>
+      print(num, "is an even number.")<br>  
+~~~~  
 </details>
 
 ## 3.3.10.3 nested-if
