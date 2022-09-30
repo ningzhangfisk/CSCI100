@@ -50,6 +50,10 @@
 
 + See slides [here](selection.md)
 
+## 3.3.11 While Loop
+
++ See slides [here](while.md)
+
 
 # References
 + [Assembly - Introduction](https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm)
