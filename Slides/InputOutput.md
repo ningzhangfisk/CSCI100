@@ -36,7 +36,7 @@ print("Hello " + name)
 name = input("What is your name?")
 print("Hi there, " + name)
 age = int(input("How old are you?"))
-print("Next year, you'll be " + (age + 1) + "years old.")
+print("Next year, you'll be " + str(age + 1) + " years old.")
 ~~~~
 ### Summary of I/0
 + What is it?
