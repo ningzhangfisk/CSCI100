@@ -54,6 +54,9 @@
 
 + See slides [here](while.md)
 
+## 3.3.12 Functions
+
++ See slides [here](function.md)
 
 # References
 + [Assembly - Introduction](https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm)
