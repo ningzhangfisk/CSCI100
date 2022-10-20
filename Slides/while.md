@@ -21,8 +21,8 @@ while condition:
 ~~~~
 count = 0
 while (count < 9):
-   print('The count is:', count)
-   count = count + 1
+  print('The count is:', count)
+  count = count + 1
 
 print("Good bye!")
 ~~~~
@@ -30,7 +30,7 @@ print("Good bye!")
 + Note a `while` loop can be converted to a `for` loop, or vice versa.
 ~~~~
 for count in range(9):
-   print('The count is:', count)
+  print('The count is:', count)
 
 print("Good bye!")
 ~~~~
@@ -42,8 +42,8 @@ print("Good bye!")
 ~~~~
 var = 1
 while var == 1 :  # This constructs an infinite loop
-   num = input("Enter a number: ")
-   print("You entered: ", num)
+  num = input("Enter a number: ")
+  print("You entered: ", num)
 
 print("Good bye!")
 ~~~~
@@ -54,10 +54,10 @@ print("Good bye!")
 ~~~~
 count = 0
 while count < 5:
-   print(count, "is less than 5")
-   count = count + 1
+  print(count, "is less than 5")
+  count = count + 1
 else:
-   print(count, "is not less than 5")
+  print(count, "is not less than 5")
 ~~~~
 
 ## 3.3.11.4 The break Statement
@@ -76,13 +76,13 @@ while i < 6:
 answer = 4
 var = 1
 while var == 1:  # This constructs an infinite loop
-    num = int(input("Enter a number to have a guess: "))
-    print("You entered: ", num)
-    if num == answer:
-        print("Your answer is correct.")
-        break
-    else:
-        print("Your answer is Not correct.")
+  num = int(input("Enter a number to have a guess: "))
+  print("You entered: ", num)
+  if num == answer:
+    print("Your answer is correct.")
+    break
+  else:
+    print("Your answer is Not correct.")
 
 print("Good bye!")
 ~~~~
