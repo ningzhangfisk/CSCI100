@@ -58,6 +58,10 @@
 
 + See slides [here](function.md)
 
+## 3.3.12 Data Structures
+### 3.3.12.1 Lists
++ See slides [here](list.md)
+
 # References
 + [Assembly - Introduction](https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm)
 + [Higher level and lower level languages](https://computersciencewiki.org/index.php/Higher_level_and_lower_level_languages)
