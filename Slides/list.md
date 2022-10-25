@@ -1,4 +1,4 @@
-# Python Datastructures
+# Python Data Structures
 + Lists
 + Tuples
 + Set
