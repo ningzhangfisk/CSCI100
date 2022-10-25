@@ -149,7 +149,7 @@ print(square_value(-4))
 def fun():
     name = "John Doe"
     age   = 20
-    return name, age;  # Return tuple, we could also write (name, age)
+    return name, age  # Return tuple, we could also write (name, age)
   
 # test code to test above method
 name, age = fun() # Assign returned tuple
