@@ -58,8 +58,8 @@
 
 + See slides [here](function.md)
 
-## 3.3.12 Data Structures
-### 3.3.12.1 Lists
+## 3.3.13 Data Structures
+### 3.3.13.1 Lists
 + See slides [here](list.md)
 
 # References
