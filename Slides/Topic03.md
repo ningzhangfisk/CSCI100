@@ -61,8 +61,11 @@
 ## 3.3.13 Data Structures
 ### 3.3.13.1 Lists
 + See slides [here](list.md)
+### 3.3.13.2 Tuples
 + See slides [here](tuple.md)
+### 3.3.13.3 Sets
 + See slides [here](set.md)
+### 3.3.13.4 Dictionaries
 + See slides [here](dict.md)
 
 # References
