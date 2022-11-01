@@ -61,6 +61,9 @@
 ## 3.3.13 Data Structures
 ### 3.3.13.1 Lists
 + See slides [here](list.md)
++ See slides [here](tuple.md)
++ See slides [here](set.md)
++ See slides [here](dict.md)
 
 # References
 + [Assembly - Introduction](https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm)
